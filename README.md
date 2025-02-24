@@ -1,4 +1,41 @@
-# Array-questions
+# C++ Array Problems and Solutions
+This repository is a curated collection of 43 C++ programs focused on array manipulation and algorithmic problem-solving. Whether you're a beginner aiming to grasp the fundamentals or an intermediate coder looking to sharpen your skills, these examples cover a wide spectrum of array operations and challenges.
+
+What You'll Find:
+Basic Operations:
+
+Copying all elements from one array to another
+Printing arrays in normal and reverse order
+Displaying elements based on specific positions (odd, even)
+Frequency & Duplicate Handling:
+
+Finding the frequency of each element
+Printing duplicate and unique elements
+Removing duplicate elements from an array
+Rotation & Rearrangement:
+
+Left and right rotations of array elements
+Cyclically rotating arrays
+Segregating 0s and 1s in a binary array
+Search & Indexing:
+
+Searching for a specific element in the array
+Finding the index of a given element
+Sorting & Ordering:
+
+Sorting arrays in both ascending and descending order
+Finding the largest, smallest, second largest, and second smallest elements
+Additional challenges like swapping the first and last elements
+Mathematical Operations:
+
+Calculating the sum and average of array elements
+Computing the difference between the largest and smallest values
+Counting even and odd elements
+Advanced Challenges:
+
+Inserting an element at a specific position
+Finding common elements between two arrays
+Determining duplicate values and more
 
 1. Program to copy all elements of one array into another array
 
